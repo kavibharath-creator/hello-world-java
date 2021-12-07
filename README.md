@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello world with Java :coffee:
 
 This is a simple **"Hello world"** done with **Java** programming language.
@@ -32,3 +33,6 @@ To execute the program, type this:
 java HelloWorld
 ```
 
+=======
+# hello-world-java
+>>>>>>> ac59f5edb9651cb300c3a98049784b237c6ac410
